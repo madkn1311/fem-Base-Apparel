@@ -15,7 +15,7 @@ body{
 }
 .left{
     width: 60%;
-    padding: 0 140px 60px;
+    padding: 0 60px 60px;
     background-image: url("images/bg-pattern-desktop.svg");
     background-size: cover;
 }
@@ -147,9 +147,9 @@ form.error small{
     }
     .mobile-img{
         display: block;
-        margin-left: -140px;
-        margin-right: -140px;
-        width: calc(100% + 280px);
+        margin-left: -60px;
+        margin-right: -60px;
+        width: calc(100% + 120px);
     }
 }
 
